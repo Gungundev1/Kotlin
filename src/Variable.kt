@@ -3,7 +3,7 @@ fun main(){
     println("value of n is: $n")
     val userId= 1234 // val type is immutable
     var userName="Gungun"// automatically string type
-    var num:Double=34.5// double type
+    var num=34.5// double type
     println("value of n is: $n")
     println("userId is: $userId")
     println("userName is: $userName ")
