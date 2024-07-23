@@ -1,4 +1,5 @@
 package Oops
+// function overRiding
  open class flower{
   open  var smell:String="Good"
   open  var colour:String="white"
